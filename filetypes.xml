@@ -174,6 +174,7 @@
 <filetype><header>43 61 74 61 6C 6F 67 20 33 2E 30 30 00</header><extension>CTF</extension><description>WhereIsIt Catalog</description></filetype>
 <filetype><header>43 6C 69 65 6E 74 20 55 72 6C 43 61 63 68 65 20 4D 4D 46 20 56 65 72 20</header><extension>DAT</extension><description>Microsoft Internet Explorer cache (index.dat)</description></filetype>
 <filetype><header>43 72 32 34</header><extension>CRX</extension><description>Google Chrome Extension</description></filetype>
+<filetype><header>43 72 4F 44</header><extension>CRX</extension><description>Google Chromium patch update</description></filetype>
 <filetype><header>43 72 65 61 74 69 76 65 20 56 6F 69 63 65 20 46</header><extension>VOC</extension><description>Creative Voice audio</description></filetype>
 <filetype><header>44 41 41 00 00 00 00 00</header><extension>DAA</extension><description>PowerISO Direct-Access-Archive image</description></filetype>
 <filetype><header>44 41 58 00</header><extension>DAX</extension><description>DAX Compressed CD image</description></filetype>
