@@ -255,6 +255,7 @@ begin
     // Try to add each dropped file to display
     for i := 0 to FileCount - 1 do  //-1 due to base 0
     begin
+      Application.ProcessMessages;
       //Get file properties
       FullName := Catcher.Files[i];
       FullFilesNames.Add(FullName);

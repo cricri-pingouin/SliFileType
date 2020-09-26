@@ -81,12 +81,12 @@ procedure TfrmHisto.TelFile();
 var
   ByteMin, ByteMax, I: Integer;
   NumRead: Integer;
-  FSize, Totaal: Int64;
+  FSize, Total: Int64;
   Step: Real;
   buf: array[1..BufferSize] of Byte;
 begin
   ByteMax := 0;
-  Totaal := 0;
+  Total := 0;
   try
   {$I-}
     AssignFile(TeTellenF, frmType.SelectedFileName);
@@ -102,10 +102,10 @@ begin
     Step := Round(FSize / 100) + 0.0000001;
     repeat
       BlockRead(TeTellenF, buf, BufferSize, NumRead); //Faster using large buffer
-      Totaal := Totaal + NumRead;
-      Application.Title := ' ' + FloatToStrF(Totaal / Step, ffGeneral, 2, 0) + '%';
-      frmProgress.Progressbar1.Position := Round(Totaal / Step);
-      frmProgress.Label2.Caption := IntToStr(ToTaal) + ' Bytes';
+      Total := Total + NumRead;
+      Application.Title := ' ' + FloatToStrF(Total / Step, ffGeneral, 2, 0) + '%';
+      frmProgress.Progressbar1.Position := Round(Total / Step);
+      frmProgress.Label2.Caption := IntToStr(ToTal) + ' Bytes';
       Application.ProcessMessages;
       if CancelFlag = True then
         Exit;
