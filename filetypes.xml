@@ -88,6 +88,7 @@
 <filetype><header>21 42 44 4E</header><extension>OST, PAB, PST</extension><description>OST Microsoft Outlook Offline Storage Folder, PAB Microsoft Outlook Personal Address Book, PST Microsoft Outlook Personal Folder</description></filetype>
 <filetype><header>23 20 44 69 73 6B 20 44 65 73 63 72 69 70 74 6F</header><extension>VMDK</extension><description>VMware 4 Virtual Disk description (split disk)</description></filetype>
 <filetype><header>23 20 4D 69 63 72 6F 73 6F 66 74 20 44 65 76 65 6C 6F 70 65 72 20 53 74 75 64 69 6F</header><extension>DSP</extension><description>Microsoft Developer Studio project</description></filetype>
+<filetype><header>23 20 54 68 69 73 20 69 73 20 61 6E 20 4B 65 79</header><extension>ETA</extension><description>Google Earth Keyhole Placemark</description></filetype>
 <filetype><header>23 20</header><extension>MSI</extension><description>Cerius2</description></filetype>
 <filetype><header>23 21 41 4D 52</header><extension>AMR</extension><description>Adaptive Multi-Rate ACELP (Algebraic Code Excited Linear Prediction)</description></filetype>
 <filetype><header>23 21 53 49 4C 4B 0A</header><extension>SIL</extension><description>Skype audio compression format, also used by other applications</description></filetype>
@@ -129,6 +130,7 @@
 <filetype><header>3C 3F 78 6D 6C 20 76 65 72 73 69 6F 6E 3D</header><extension>MANIFEST</extension><description>Windows Visual Stylesheet XML</description></filetype>
 <filetype><header>3C 43 54 72 61 6E 73 54 69 6D 65 6C 69 6E 65 3E</header><extension>MXF</extension><description>Picasa movie project</description></filetype>
 <filetype><header>3C 43 73 6F 75 6E 64 53 79 6E 74 68 65 73 69 7A</header><extension>CSD</extension><description>Csound music</description></filetype>
+<filetype><header>3C 4B 65 79 68 6F 6C 65 3E</header><extension>ETA</extension><description>Google Earth Keyhole Overlay</description></filetype>
 <filetype><header>3C 4D 61 6B 65 72 46 69 6C 65 20</header><extension>FM, MIF</extension><description>Adobe FrameMaker</description></filetype>
 <filetype><header>3C 67 70 78 20 76 65 72 73 69 6F 6E 3D 22 31 2E 31</header><extension>GPX</extension><description>GPS eXchange (v1.1 schema)</description></filetype>
 <filetype><header>3C 7E 36 3C 5C 25 5F 30 67 53 71 68 3B</header><extension>B85</extension><description>ASCII85 (aka BASE85) encoded (used with PostScript and PDF)</description></filetype>
@@ -148,6 +150,7 @@
 <filetype><header>41 4F 4C 56 4D 31 30 30</header><extension>ORG, PFC</extension><description>AOL personal cabinet (PFC)</description></filetype>
 <filetype><header>41 56 47 36 5F 49 6E 74 65 67 72 69 74 79 5F 44 61 74 61 62 61 73 65</header><extension>DAT</extension><description>AVG6 Integrity database</description></filetype>
 <filetype><header>41 72 43 01</header><extension>ARC</extension><description>FreeArc compressed</description></filetype>
+<filetype><header>42 44 69 63</header><extension>BDIC</extension><description>Google Chrome dictionary</description></filetype>
 <filetype><header>42 45 47 49 4E 3A 56 43 41 52 44 0D 0A</header><extension>VCF</extension><description>vCard</description></filetype>
 <filetype><header>42 4C 49 32 32 33</header><extension>BLI, RBI</extension><description>Thomson Speedtouch series WLAN router firmware</description></filetype>
 <filetype><header>42 4D</header><extension>BMP, DIB</extension><description>Windows (or device-independent) bitmap image</description></filetype>
@@ -386,6 +389,7 @@
 <filetype><header>67 49 00 00</header><extension>SHD</extension><description>Windows 2000/XP printer spool</description></filetype>
 <filetype><header>67 69 6D 70 20 78 63 66 20</header><extension>XCF</extension><description>GIMP eXperimental Computing Facility (XCF)</description></filetype>
 <filetype><header>68 49 00 00</header><extension>SHD</extension><description>Windows Server 2003 printer spool</description></filetype>
+<filetype><header>69 63 6E 73</header><extension>ICNS</extension><description>MacOS icon</description></filetype>
 <filetype><header>6C 33 33 6C</header><extension>DBB</extension><description>Skype user data (profile and contacts)</description></filetype>
 <filetype><header>?? ?? ?? ?? 6D 6F 6F 76</header><extension>MOV</extension><description>QuickTime movie</description></filetype>
 <filetype><header>6D 73 46 69 6C 74 65 72 4C 69 73 74</header><extension>TPL</extension><description>Internet Explorer v11 Tracking Protection List</description></filetype>
@@ -407,6 +411,7 @@
 <filetype><header>78 01 73 0D 62 62 60</header><extension>DMG</extension><description>Mac OS X Disk Copy Disk Image</description></filetype>
 <filetype><header>78 61 72 21</header><extension>XAR</extension><description>eXtensible ARchive</description></filetype>
 <filetype><header>7A 62 65 78</header><extension>INFO</extension><description>ZoomBrowser Image Index (ZbThumbnal.info)</description></filetype>
+<filetype><header>7B 22 75 72 6C 22 3A 20 22 68 74 74 70 73 3A 2F</header><extension>GDOC, GDRAW</extension><description>Google Drive Document; Google Drive Drawing</description></filetype>
 <filetype><header>7B 0D 0A 6F 20</header><extension>LGC, LGD</extension><description>Windows application log</description></filetype>
 <filetype><header>7B 5C 70 77 69</header><extension>PWI</extension><description>Microsoft Windows Mobile personal note</description></filetype>
 <filetype><header>7B 5C 72 74 66</header><extension>RTF</extension><description>Rich text format word processing</description></filetype>
@@ -468,6 +473,7 @@
 <filetype><header>EB 3C 90 2A</header><extension>IMG</extension><description>GEM Raster</description></filetype>
 <filetype><header>EB</header><extension>COM, SYS</extension><description>Windows executable</description></filetype>
 <filetype><header>ED AB EE DB</header><extension>RPM</extension><description>RedHat Package Manager</description></filetype>
+<filetype><header>EF BB BF 3C 3F 78 6D 6C 20 76 65 72 73 69 6F 6E</header><extension>YTT</extension><description>YouTube Timed Text (subtitle)</description></filetype>
 <filetype><header>EF BB BF 3C</header><extension>WSF</extension><description>Windows Script Component (UTF-8)</description></filetype>
 <filetype><header>F9 BE B4 D9</header><extension>DAT</extension><description>Bitcoin-Qt blockchain block</description></filetype>
 <filetype><header>FD 37 7A 58 5A 00</header><extension>XZ</extension><description>XZ archive</description></filetype>
