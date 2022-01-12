@@ -86,6 +86,7 @@
 <filetype><header>21 12</header><extension>AIN</extension><description>AIN Compressed Archive</description></filetype>
 <filetype><header>21 3C 61 72 63 68 3E 0A</header><extension>LIB</extension><description>Unix archiver (ar) and Microsoft Program Library</description></filetype>
 <filetype><header>21 42 44 4E</header><extension>OST, PAB, PST</extension><description>OST Microsoft Outlook Offline Storage Folder, PAB Microsoft Outlook Personal Address Book, PST Microsoft Outlook Personal Folder</description></filetype>
+<filetype><header>21 0D 0A 43 52 52 2F 54 68 69 73 20 65 6C 65 63 74 72 6F 6E 69 63 20 63 68 61 72 74 20 77 61 73</header><extension>BSB</extension><description>NOAA Raster Navigation Chart</description></filetype>
 <filetype><header>23 20 44 69 73 6B 20 44 65 73 63 72 69 70 74 6F</header><extension>VMDK</extension><description>VMware 4 Virtual Disk description (split disk)</description></filetype>
 <filetype><header>23 20 4D 69 63 72 6F 73 6F 66 74 20 44 65 76 65 6C 6F 70 65 72 20 53 74 75 64 69 6F</header><extension>DSP</extension><description>Microsoft Developer Studio project</description></filetype>
 <filetype><header>23 20 54 68 69 73 20 69 73 20 61 6E 20 4B 65 79</header><extension>ETA</extension><description>Google Earth Keyhole Placemark</description></filetype>
