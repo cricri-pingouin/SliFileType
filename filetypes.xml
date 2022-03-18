@@ -49,9 +49,10 @@
 <filetype><header>01 10</header><extension>TR1</extension><description>Novell LANalyzer capture</description></filetype>
 <filetype><header>01 DA 01 01 00 03</header><extension>RGB</extension><description>Silicon Graphics RGB Bitmap</description></filetype>
 <filetype><header>01 FF 02 04 03 02</header><extension>DRW</extension><description>Micrografx vector graphic</description></filetype>
-<filetype><header>02 64 73 73</header><extension>DSS</extension><description>Digital Speech Standard (Olympus, Grundig, Phillips)</description></filetype>
+<filetype><header>02 64 73 73</header><extension>DSS</extension><description>Digital Speech Standard (Olympus, Grundig, Philips) v2</description></filetype>
 <filetype><header>03 00 00 00 41 50 50 52</header><extension>ADX</extension><description>Approach index</description></filetype>
-<filetype><header>03 00 00 00</header><extension>QPH</extension><description>Quicken price history</description></filetype>
+<filetype><header>03 00 00 00</header><extension>NFC, QPH</extension><description>Nokia PC Suite Content Copier, Quicken price history</description></filetype>
+<filetype><header>03 64 73 73</header><extension>DSS</extension><description>Digital Speech Standard v3</description></filetype>
 <filetype><header>06 06 ED F5 D8 1D 46 E5 BD 31 EF E7 FE 74 B7 1D</header><extension>INDD</extension><description>Adobe InDesign document</description></filetype>
 <filetype><header>06 0E 2B 34 02 05 01 01 0D 01 02 01 01 02</header><extension>MXF</extension><description>Material Exchange Format</description></filetype>
 <filetype><header>07 53 4B 46</header><extension>SKF</extension><description>SkinCrafter skin</description></filetype>
@@ -80,6 +81,7 @@
 <filetype><header>1A 45 DF A3</header><extension>MKV, WEBM</extension><description>Matroska stream, WebM video</description></filetype>
 <filetype><header>1A 52 54 53 20 43 4F 4D 50 52 45 53 53 45 44 20 49 4D 41 47 45 20 56 31 2E 30 1A</header><extension>DAT</extension><description>Runtime Software compressed disk image</description></filetype>
 <filetype><header>1D 7D</header><extension>WS</extension><description>WordStar Version 5.0/6.0 document</description></filetype>
+<filetype><header>1F 8B 08 00</header><extension>DSS</extension><description>Synology router configuration backup</description></filetype>
 <filetype><header>1F 8B 08</header><extension>GZ, TGZ</extension><description>GZIP archive</description></filetype>
 <filetype><header>1F 9D</header><extension>TAR.Z</extension><description>Compressed tape archive using LZW compression</description></filetype>
 <filetype><header>1F A0</header><extension>TAR.Z</extension><description>Compressed tape archive using LZH compression</description></filetype>
@@ -95,6 +97,7 @@
 <filetype><header>23 21 53 49 4C 4B 0A</header><extension>SIL</extension><description>Skype audio compression format, also used by other applications</description></filetype>
 <filetype><header>23 3F 52 41 44 49 41 4E 43 45 0A</header><extension>HDR</extension><description>Radiance High Dynamic Range image</description></filetype>
 <filetype><header>23 40 7E 5E</header><extension>VBE</extension><description>VBScript Encoded script</description></filetype>
+<filetype><header>23 4E 42 46</header><extension>NBF</extension><description>NVIDIA Scene Graph binary</description></filetype>
 <filetype><header>23 50 45 43 30 30 30 31 4C 41 3A</header><extension>PEC</extension><description>Brother/Babylock/Bernina Home Embroidery</description></filetype>
 <filetype><header>23 50 45 53 30</header><extension>PES</extension><description>Brother/Babylock/Bernina Home Embroidery</description></filetype>
 <filetype><header>24 46 4C 32 40 28 23 29 20 53 50 53 53 20 44 41 54 41 20 46 49 4C 45</header><extension>SAV</extension><description>SPSS Statistics Data</description></filetype>
@@ -451,6 +454,7 @@
 <filetype><header>C5 D0 D3 C6</header><extension>EPS</extension><description>Adobe encapsulated PostScript</description></filetype>
 <filetype><header>C8 00 79 00</header><extension>LBK</extension><description>Jeppesen FliteLog</description></filetype>
 <filetype><header>CA FE BA BE</header><extension>CLASS</extension><description>Java bytecode (also used by Apple iOS apps)</description></filetype>
+<filetype><header>CC 52 33 FC E9 2C 18 48 AF E3 36 30 1A 39 40 06</header><extension>NBU</extension><description>Nokia phone backup</description></filetype>
 <filetype><header>CD 20 AA AA 02 00 00 00</header><extension>n/a</extension><description>Norton Anti-Virus quarantined virus</description></filetype>
 <filetype><header>CE 24 B9 A2 20 00 00 00</header><extension>TIB</extension><description>Acronis True Image</description></filetype>
 <filetype><header>CE CE CE CE</header><extension>JCEKS</extension><description>Java Cryptography Extension keystore</description></filetype>
