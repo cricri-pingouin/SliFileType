@@ -102,6 +102,7 @@
 <filetype><header>23 50 45 53 30</header><extension>PES</extension><description>Brother/Babylock/Bernina Home Embroidery</description></filetype>
 <filetype><header>24 46 4C 32 40 28 23 29 20 53 50 53 53 20 44 41 54 41 20 46 49 4C 45</header><extension>SAV</extension><description>SPSS Statistics Data</description></filetype>
 <filetype><header>25 21 50 53 2D 41 64 6F 62 65 2D 33 2E 30 20 45 50 53 46 2D 33 20 30</header><extension>EPS</extension><description>Adobe encapsulated PostScript</description></filetype>
+<filetype><header>25 21 50 53 2D 41 64 6F 62 65 2D</header><extension>PS</extension><description>PostScript</description></filetype>
 <filetype><header>25 50 44 46</header><extension>PDF, FDF, AI</extension><description>Adobe Portable Document Format, Forms Document Format, Illustrator graphics</description></filetype>
 <filetype><header>25 62 69 74 6D 61 70</header><extension>FBM</extension><description>Fuzzy bitmap (FBM)</description></filetype>
 <filetype><header>28 54 68 69 73 20 66 69 6C 65 20 6D 75 73 74 20 62 65 20 63 6F 6E 76 65 72 74 65 64 20 77 69 74 68 20 42 69 6E 48 65 78 20</header><extension>HQX</extension><description>Macintosh BinHex 4 Compressed Archive</description></filetype>
@@ -345,6 +346,7 @@
 <filetype><header>56 43 50 43 48 30</header><extension>PCH</extension><description>Visual C PreCompiled header</description></filetype>
 <filetype><header>56 45 52 53 49 4F 4E 20</header><extension>CTL</extension><description>Visual Basic User-defined Control</description></filetype>
 <filetype><header>56 65 72 73 69 6F 6E 20</header><extension>MIF</extension><description>MapInfo Interchange Format</description></filetype>
+<filetype><header>55 6E 46 69 6E 4D 46</header><extension>MF4</extension><description>Unfinalized Measurement Data Format(MDF)</description></filetype>
 <filetype><header>57 04 00 00 53 50 53 53 20 74 65 6D 70 6C 61 74</header><extension>SCT</extension><description>SPSS Statistics template</description></filetype>
 <filetype><header>57 4D 4D 50</header><extension>DAT</extension><description>Walkman MP3 container</description></filetype>
 <filetype><header>57 53 32 30 30 30</header><extension>WS2</extension><description>WordStar for Windows v2 document</description></filetype>
@@ -412,6 +414,8 @@
 <filetype><header>74 72 75 65 00</header><extension>TTF</extension><description>TrueType font</description></filetype>
 <filetype><header>76 2F 31 01</header><extension>EXR</extension><description>OpenEXR bitmap image format</description></filetype>
 <filetype><header>76 32 30 30 33 2E 31 30 0D 0A 30 0D 0A</header><extension>FLT</extension><description>Qimage filter</description></filetype>
+<filetype><header>77 4F 46 32</header><extension>WOFF2</extension><description>Web Open Font Format 2</description></filetype>
+<filetype><header>77 4F 46 46</header><extension>WOFF</extension><description>Web Open Font Format</description></filetype>
 <filetype><header>78 01 73 0D 62 62 60</header><extension>DMG</extension><description>Mac OS X Disk Copy Disk Image</description></filetype>
 <filetype><header>78 61 72 21</header><extension>XAR</extension><description>eXtensible ARchive</description></filetype>
 <filetype><header>7A 62 65 78</header><extension>INFO</extension><description>ZoomBrowser Image Index (ZbThumbnal.info)</description></filetype>
