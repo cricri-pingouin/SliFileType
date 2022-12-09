@@ -7,6 +7,7 @@
 <filetype><header>00 00 00 14 66 74 79 70 69 73 6F 6D</header><extension>MP4</extension><description>ISO Base Media (MPEG-4) v1</description></filetype>
 <filetype><header>00 00 00 14 66 74 79 70 71 74 20 20</header><extension>MOV</extension><description>QuickTime movie</description></filetype>
 <filetype><header>00 00 00 18 66 74 79 70 33 67 70 35</header><extension>MP4</extension><description>MPEG-4 video</description></filetype>
+<filetype><header>00 00 00 20 66 74 79 70 68 65 69 63</header><extension>HEIC</extension><description>High Efficiency Image Container (of H.265 images)</description></filetype>
 <filetype><header>00 00 00 18 66 74 79 70 6D 70 34 32</header><extension>M4V</extension><description>MPEG-4 video/QuickTime</description></filetype>
 <filetype><header>00 00 00 1C 66 74 79 70 4D 53 4E 56 01 29 00 46 4D 53 4E 56 6D 70 34 32</header><extension>MP4</extension><description>MPEG-4 video</description></filetype>
 <filetype><header>00 00 00 20 66 74 79 70 33 67 70</header><extension>3GG, 3GP, 3G2</extension><description>3rd Generation Partnership Project 3GPP2 multimedia</description></filetype>
@@ -37,6 +38,7 @@
 <filetype><header>00 11 AF</header><extension>FLI</extension><description>FLIC Animation</description></filetype>
 <filetype><header>00 1E 84 90 00 00 00 00</header><extension>SNM</extension><description>Netscape Communicator (v4) mail folder</description></filetype>
 <filetype><header>00 20 AF 30</header><extension>TPL</extension><description>Wii images container</description></filetype>
+<filetype><header>00 3B 05 00 01 00 00 00</header><extension>DB</extension><description>Paessler PRTG Monitoring System database</description></filetype>
 <filetype><header>00 5C 41 B1 FF</header><extension>ENC</extension><description>Mujahideen Secrets 2 encrypted</description></filetype>
 <filetype><header>00 BF</header><extension>SOL</extension><description>Adobe Flash shared object (e.g. Flash cookies)</description></filetype>
 <filetype><header>00 FF FF FF FF FF FF FF FF FF FF 00 00 02 00 01</header><extension>MDF</extension><description>Alcohol 120% CD image</description></filetype>
