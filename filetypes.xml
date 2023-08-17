@@ -398,6 +398,7 @@
 <filetype><header>67 69 6D 70 20 78 63 66 20</header><extension>XCF</extension><description>GIMP eXperimental Computing Facility (XCF)</description></filetype>
 <filetype><header>68 49 00 00</header><extension>SHD</extension><description>Windows Server 2003 printer spool</description></filetype>
 <filetype><header>69 63 6E 73</header><extension>ICNS</extension><description>MacOS icon</description></filetype>
+<filetype><header>6B 87 08 38 76 C1 48 4E B7 AE 04 04 6E 6C C7 52 01 00</header><extension>VSC</extension><description>Windows OS Volume Shadow Copy, index block header</description></filetype>
 <filetype><header>6C 33 33 6C</header><extension>DBB</extension><description>Skype user data (profile and contacts)</description></filetype>
 <filetype><header>?? ?? ?? ?? 6D 6F 6F 76</header><extension>MOV</extension><description>QuickTime movie</description></filetype>
 <filetype><header>6D 73 46 69 6C 74 65 72 4C 69 73 74</header><extension>TPL</extension><description>Internet Explorer v11 Tracking Protection List</description></filetype>
