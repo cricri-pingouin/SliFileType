@@ -200,7 +200,7 @@
 <filetype><header>45 52 46 53 53 41 56 45 44 41 54 41 46 49 4C 45</header><extension>DAT</extension><description>Kroll EasyRecovery Saved Recovery State</description></filetype>
 <filetype><header>45 50</header><extension>MDI</extension><description>Microsoft Document Imaging</description></filetype>
 <filetype><header>45 56 46 09 0D 0A FF 00</header><extension>Enn</extension><description>Expert Witness Compression Format (EWF)</description></filetype>
-<filetype><header>45 56 46 32 0D 0A 81</header><extension>Exnn</extension><description>EnCase Evidence Format Version 2 (Ex01)</description></filetype>
+<filetype><header>45 56 46 32 0D 0A 81</header><extension>Exnn</extension><description>EnCase Evidence Format Version 2 (Exnn: nn=segment sequence number)</description></filetype>
 <filetype><header>45 6C 66 46 69 6C 65 00</header><extension>EVTX</extension><description>Windows Vista event log</description></filetype>
 <filetype><header>45 86 00 00 06 00</header><extension>QBB</extension><description>Intuit QuickBooks backup</description></filetype>
 <filetype><header>46 41 58 43 4F 56 45 52 2D 56 45 52</header><extension>CPE</extension><description>Microsoft Fax Cover Sheet</description></filetype>
@@ -245,10 +245,11 @@
 <filetype><header>4C 00 00 00 01 14 02 00</header><extension>LNK</extension><description>Windows shell link (shortcut)</description></filetype>
 <filetype><header>4C 01</header><extension>OBJ</extension><description>Microsoft Common Object Format (COFF) relocatable</description></filetype>
 <filetype><header>4C 41 3A</header><extension>DST</extension><description>Tajima embroidery sticj image</description></filetype>
+<filetype><header>4C 45 46 32 0D 0A 82 00</header><extension>Lxnn</extension><description>Expert Witness Logical Format (EWF) v2 for Guidance Software Encase (Lxnn: nn=segment sequence number)</description></filetype>
 <filetype><header>4C 49 53 54</header><extension>IFF</extension><description>Electronic Arts' Interchange Format</description></filetype>
 <filetype><header>4C 4E 02 00</header><extension>GID, HLP</extension><description>Windows Help (HLP) index (GID)</description></filetype>
 <filetype><header>4C 50 46 20 00 01</header><extension>ANM</extension><description>DeluxePaint Animation</description></filetype>
-<filetype><header>4C 56 46 09 0D 0A FF 00</header><extension>Enn</extension><description>Logical Evidence Format (EWF-L01)</description></filetype>
+<filetype><header>4C 56 46 09 0D 0A FF 00</header><extension>Lnn</extension><description>Logical Evidence Format (EWF-L01) for Guidance Software Encase (Lnn: nn=segment sequence number)</description></filetype>
 <filetype><header>4D 2D 57 20 50 6F 63 6B 65 74 20 44 69 63 74 69</header><extension>PDB</extension><description>Merriam-Webster Pocket Dictionary</description></filetype>
 <filetype><header>4D 41 52 31 00</header><extension>MAR</extension><description>Mozilla archive</description></filetype>
 <filetype><header>4D 41 52 43</header><extension>MAR</extension><description>Microsoft/MSN MARC archive</description></filetype>
@@ -323,7 +324,7 @@
 <filetype><header>52 61 72 21 1A 07 00</header><extension>RAR</extension><description>RAR (v4.x) compressed archive</description></filetype>
 <filetype><header>52 61 72 21 1A 07 01 00</header><extension>RAR</extension><description>RAR (v5) compressed archive</description></filetype>
 <filetype><header>52 65 74 75 72 6E 2D 50 61 74 68 3A 20</header><extension>EML</extension><description>Common header for e-mail</description></filetype>
-<filetype><header>?? ?? ?? ?? 53 43 43 41</header><extension>PF</extension><description>Windows prefetch</description></filetype>
+<filetype><header>?? ?? ?? ?? 53 43 43 41</header><extension>PF</extension><description>Windows prefetch (1st byte: 11=XP, 17=Vista/Win7, 1A=Win8.1)</description></filetype>
 <filetype><header>53 43 48 6C</header><extension>AST</extension><description>Need for Speed: Underground Audio</description></filetype>
 <filetype><header>53 43 4D 49</header><extension>IMG</extension><description>Img Software Set Bitmap</description></filetype>
 <filetype><header>53 44 50 58</header><extension>DPX</extension><description>Society of Motion Picture and Television Engineers (SMPTE)</description></filetype>
@@ -469,7 +470,7 @@
 <filetype><header>CF 11 E0 A1 B1 1A E1 00</header><extension>DOC</extension><description>Perfect Office document</description></filetype>
 <filetype><header>CF AD 12 FE</header><extension>DBX</extension><description>Outlook Express e-mail folder</description></filetype>
 <filetype><header>CF FA ED FE</header><extension>n/a</extension><description>Apple OS X ABI Mach-O binary (64-bit, reverse byte)</description></filetype>
-<filetype><header>D0 CF 11 E0 A1 B1 1A E1</header><extension>DOC, DOT, PPS, PPT, XLA, XLS, WIZ</extension><description>Object Linking and Embedding (OLE) Compound (CF)</description></filetype>
+<filetype><header>D0 CF 11 E0 A1 B1 1A E1</header><extension>DOC, DOT, PPS, PPT, XLA, XLS, WIZ</extension><description>Object Linking and Embedding (OLE) Compound (CF) (i.e. OLECF) </description></filetype>
 <filetype><header>D2 0A 00 00</header><extension>FTR</extension><description>GN Nettest WinPharoah filter</description></filetype>
 <filetype><header>D4 2A</header><extension>ARL, AUT</extension><description>AOL history (ARL) and typed URL (AUT)</description></filetype>
 <filetype><header>D4 C3 B2 A1</header><extension>n/a</extension><description>WinDump (winpcap) capture (Windows)</description></filetype>
