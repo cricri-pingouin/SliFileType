@@ -49,6 +49,7 @@
 <filetype><header>01 01 47 19 A4 00 00 00 00 00 00 00</header><extension>TBI</extension><description>The Bat! secure e-mail Message Base Index</description></filetype>
 <filetype><header>01 0F 00 00</header><extension>MDF</extension><description>Microsoft SQL Server 2000 database</description></filetype>
 <filetype><header>01 10</header><extension>TR1</extension><description>Novell LANalyzer capture</description></filetype>
+<filetype><header>01 C0 0C</header><extension>HED</extension><description>HighEdit document</description></filetype>
 <filetype><header>01 DA 01 01 00 03</header><extension>RGB</extension><description>Silicon Graphics RGB Bitmap</description></filetype>
 <filetype><header>01 FF 02 04 03 02</header><extension>DRW</extension><description>Micrografx vector graphic</description></filetype>
 <filetype><header>02 64 73 73</header><extension>DSS</extension><description>Digital Speech Standard (Olympus, Grundig, Philips) v2</description></filetype>
@@ -148,7 +149,7 @@
 <filetype><header>41 43 31 30</header><extension>DWG</extension><description>Generic AutoCAD drawing</description></filetype>
 <filetype><header>41 43 76</header><extension>SLE</extension><description>Steganos Security Suite virtual secure drive</description></filetype>
 <filetype><header>41 43 53 44</header><extension>n/a</extension><description>Miscellaneous AOL parameter and information</description></filetype>
-<filetype><header>41 45 53</header><extension>AES</extension><description>AES Crypt format</description></filetype>
+<filetype><header>41 45 53</header><extension>AES</extension><description>AES Crypt format (4th byte is version number 0-2)</description></filetype>
 <filetype><header>41 4D 59 4F</header><extension>SYW</extension><description>Harvard Graphics symbol graphic</description></filetype>
 <filetype><header>41 4F 4C 20 46 65 65 64 62 61 67</header><extension>BAG</extension><description>AOL and AIM buddy list</description></filetype>
 <filetype><header>41 4F 4C 44 42</header><extension>ABY, IDX</extension><description>AOL database: address book (ABY) and user configuration</description></filetype>
@@ -446,6 +447,7 @@
 <filetype><header>9C CB CB 8D 13 75 D2 11 91 58 00 C0 4F 79 56 A4</header><extension>WAB</extension><description>Outlook address</description></filetype>
 <filetype><header>A1 B2 C3 D4</header><extension>n/a</extension><description>tcpdump (libpcap) capture (Linux/Unix)</description></filetype>
 <filetype><header>A1 B2 CD 34</header><extension>n/a</extension><description>Extended tcpdump (libpcap) capture (Linux/Unix)</description></filetype>
+<filetype><header>A3 DE B0</header><extension>HED</extension><description>HighEdit document</description></filetype>
 <filetype><header>A9 0D 00 00 00 00 00 00</header><extension>DAT</extension><description>Access Data FTK evidence</description></filetype>
 <filetype><header>AB 4B 54 58 20 31 31 BB 0D 0A 1A 0A</header><extension>KTX</extension><description>Khronos texture for OpenGL and OpenGL ES applications</description></filetype>
 <filetype><header>AC 9E BD 8F 00 00</header><extension>QDF</extension><description>Quicken data</description></filetype>
