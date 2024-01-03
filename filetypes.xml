@@ -382,6 +382,7 @@
 <filetype><header>63 64 73 61 65 6E 63 72</header><extension>DMG</extension><description>Macintosh encrypted Disk image (v1)</description></filetype>
 <filetype><header>63 6F 6E 65 63 74 69 78</header><extension>VHD</extension><description>Virtual PC Virtual HD image</description></filetype>
 <filetype><header>63 75 73 68 00 00 00 02 00 00 00</header><extension>CSH</extension><description>Photoshop Custom Shape</description></filetype>
+<filetype><header>63 78 73 70 61 72 73 65</header><extension>VHD</extension><description>Virtual PC Virtual HD image dynamic disk</description></filetype>
 <filetype><header>64 00 00 00</header><extension>P10</extension><description>Intel PROset/Wireless Profile</description></filetype>
 <filetype><header>64 38 3A 61 6E 6E 6F 75 6E 63 65</header><extension>TORRENT</extension><description>Torrent</description></filetype>
 <filetype><header>64 65 78 0A</header><extension>DEX</extension><description>Dalvik executable (Android)</description></filetype>
@@ -426,6 +427,7 @@
 <filetype><header>7A 62 65 78</header><extension>INFO</extension><description>ZoomBrowser Image Index (ZbThumbnal.info)</description></filetype>
 <filetype><header>7B 22 75 72 6C 22 3A 20 22 68 74 74 70 73 3A 2F</header><extension>GDOC, GDRAW</extension><description>Google Drive Document; Google Drive Drawing</description></filetype>
 <filetype><header>7B 0D 0A 6F 20</header><extension>LGC, LGD</extension><description>Windows application log</description></filetype>
+<filetype><header>7B 44 52 4D 50 44 4B 7D</header><extension>DRMX, DRMZ</extension><description>Drumlin Fully Secure PDF (requires Javelin PDF Reader and unique authorization code)</description></filetype>
 <filetype><header>7B 5C 70 77 69</header><extension>PWI</extension><description>Microsoft Windows Mobile personal note</description></filetype>
 <filetype><header>7B 5C 72 74 66</header><extension>RTF</extension><description>Rich text format word processing</description></filetype>
 <filetype><header>7C 4B C3 74 E1 C8 53 A4 79 B9 01 1D FC 4F DD 13</header><extension>CSD</extension><description>Huskygram, Poem, or Singer embroidery design</description></filetype>
