@@ -292,6 +292,7 @@
 <filetype><header>50 41 47 45 44 55 36 34</header><extension>DMP</extension><description>Windows 64-bit memory dump</description></filetype>
 <filetype><header>50 41 47 45 44 55 4D 50</header><extension>DMP</extension><description>Windows memory dump</description></filetype>
 <filetype><header>50 41 58</header><extension>PAX</extension><description>PAX password protected bitmap</description></filetype>
+<filetype><header>50 44 4E 33</header><extension>PDN</extension><description>Paint.NET image (v3)</description></filetype>
 <filetype><header>50 45 53 54</header><extension>DAT</extension><description>PestPatrol data/scan strings</description></filetype>
 <filetype><header>50 47 50 64 4D 41 49 4E</header><extension>PGD</extension><description>PGP disk image</description></filetype>
 <filetype><header>50 49 43 54 00 08</header><extension>IMG</extension><description>ADEX Corp. ChromaGraph Graphics Card Bitmap Graphic</description></filetype>
