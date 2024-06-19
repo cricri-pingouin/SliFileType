@@ -40,6 +40,8 @@
 <filetype><header>00 20 AF 30</header><extension>TPL</extension><description>Wii images container</description></filetype>
 <filetype><header>00 3B 05 00 01 00 00 00</header><extension>DB</extension><description>Paessler PRTG Monitoring System database</description></filetype>
 <filetype><header>00 5C 41 B1 FF</header><extension>ENC</extension><description>Mujahideen Secrets 2 encrypted</description></filetype>
+<filetype><header>00 6D 02</header><extension>NC</extension><description>mcrypt v2.2 encrypted</description></filetype>
+<filetype><header>00 6D 03</header><extension>NC</extension><description>mcrypt v2.5 encrypted</description></filetype>
 <filetype><header>00 BF</header><extension>SOL</extension><description>Adobe Flash shared object (e.g. Flash cookies)</description></filetype>
 <filetype><header>00 FF FF FF FF FF FF FF FF FF FF 00 00 02 00 01</header><extension>MDF</extension><description>Alcohol 120% CD image</description></filetype>
 <filetype><header>01 00 00 00</header><extension>EMF</extension><description>Extended (Enhanced) Windows Metafile Format, printer spool</description></filetype>
@@ -171,6 +173,9 @@
 <filetype><header>43 41 54 20</header><extension>IFF</extension><description>Electronic Arts' Interchange Format</description></filetype>
 <filetype><header>43 42 46 49 4C 45</header><extension>CBD</extension><description>WordPerfect dictionary (unconfirmed)</description></filetype>
 <filetype><header>43 44 30 30 31</header><extension>ISO</extension><description>ISO-9660 CD Disc Image</description></filetype>
+<filetype><header>43 44 46 01</header><extension>NC</extension><description>NetCDF (Network Common Data Form) v3</description></filetype>
+<filetype><header>43 44 46 02</header><extension>NC</extension><description>NetCDF (Network Common Data Form) v3 64-bit</description></filetype>
+<filetype><header>43 44 46</header><extension>NC</extension><description>NetCDF (Network Common Data Form) generic</description></filetype>
 <filetype><header>43 49 53 4F</header><extension>CSO</extension><description>Compressed ISO (CISO) CD image</description></filetype>
 <filetype><header>43 4D 4D 4D 15 00 00 00</header><extension>DB</extension><description>Windows 7 thumbcache_sr.db or other thumbcache</description></filetype>
 <filetype><header>43 4D 58 31</header><extension>CLB</extension><description>Corel Binary metafile</description></filetype>
@@ -401,12 +406,13 @@
 <filetype><header>67 49 00 00</header><extension>SHD</extension><description>Windows 2000/XP printer spool</description></filetype>
 <filetype><header>67 69 6D 70 20 78 63 66 20</header><extension>XCF</extension><description>GIMP eXperimental Computing Facility (XCF)</description></filetype>
 <filetype><header>68 49 00 00</header><extension>SHD</extension><description>Windows Server 2003 printer spool</description></filetype>
+<filetype><header>68 87 08 38 76 C1 48 4E B7 AE 04 04 6E 6C C7 52 01 00</header><extension>VSC</extension><description>Windows OS Volume Shadow Copy, index block header</description></filetype>
 <filetype><header>69 63 6E 73</header><extension>ICNS</extension><description>MacOS icon</description></filetype>
-<filetype><header>6B 87 08 38 76 C1 48 4E B7 AE 04 04 6E 6C C7 52 01 00</header><extension>VSC</extension><description>Windows OS Volume Shadow Copy, index block header</description></filetype>
 <filetype><header>6C 33 33 6C</header><extension>DBB</extension><description>Skype user data (profile and contacts)</description></filetype>
 <filetype><header>?? ?? ?? ?? 6D 6F 6F 76</header><extension>MOV</extension><description>QuickTime movie</description></filetype>
 <filetype><header>6D 73 46 69 6C 74 65 72 4C 69 73 74</header><extension>TPL</extension><description>Internet Explorer v11 Tracking Protection List</description></filetype>
 <filetype><header>6D 75 6C 74 69 42 69 74 2E 69 6E 66 6F</header><extension>INFO</extension><description>MultiBit Bitcoin wallet information</description></filetype>
+<filetype><header>6E 65 74 63 64 66 20</header><extension>CDL</extension><description>NetCDF (Network Common Data Form) metadata</description></filetype>
 <filetype><header>6F 3C</header><extension>n/a</extension><description>Short Message Service (SMS) stored on a SIM</description></filetype>
 <filetype><header>6F 70 64 61 74 61 30 31</header><extension>n/a</extension><description>1Password 4 Cloud Keychain encrypted data</description></filetype>
 <filetype><header>72 65 67 66</header><extension>DAT</extension><description>Windows NT registry hive</description></filetype>
