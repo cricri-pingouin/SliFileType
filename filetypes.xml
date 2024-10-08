@@ -400,6 +400,8 @@
 <filetype><header>?? ?? ?? ?? 66 74 79 70 33 67 70 35</header><extension>MP4</extension><description>MPEG-4 video</description></filetype>
 <filetype><header>?? ?? ?? ?? 66 74 79 70 4D 34 41 20</header><extension>M4A</extension><description>Apple Lossless Audio Codec</description></filetype>
 <filetype><header>?? ?? ?? ?? 66 74 79 70 4D 53 4E 56</header><extension>MP4</extension><description>MPEG-4 video</description></filetype>
+<filetype><header>?? ?? ?? ?? 66 74 79 70 61 76 69 66</header><extension>AVIF</extension><description>AV1 Image, based on Video 1 (AV1) codec</description></filetype>
+<filetype><header>?? ?? ?? ?? 66 74 79 70 68 65 69 63</header><extension>HEIC</extension><description>High Efficiency Image Container (HEIC)</description></filetype>
 <filetype><header>?? ?? ?? ?? 66 74 79 70 69 73 6F 6D</header><extension>MP4</extension><description>ISO Base Media (MPEG-4) v1</description></filetype>
 <filetype><header>?? ?? ?? ?? 66 74 79 70 6D 70 34 32</header><extension>M4V</extension><description>MPEG-4 video|QuickTime</description></filetype>
 <filetype><header>?? ?? ?? ?? 66 74 79 70 71 74 20 20</header><extension>MOV</extension><description>QuickTime movie</description></filetype>
